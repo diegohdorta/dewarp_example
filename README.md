@@ -27,7 +27,7 @@ $ scp -r media/ root@<ip_adress>:/home/root
 
 Output:
 <p align="center">
-  <img src="https://raw.githubusercontent.com/diegohdorta/dewarp_example/master/media/example.gif" height="469" width="345">
+  <img src="https://raw.githubusercontent.com/diegohdorta/dewarp_example/master/media/example.gif" height="345" width="469">
 </p>
 
 [yocto_doc]: https://www.nxp.com/docs/en/user-guide/IMX_YOCTO_PROJECT_USERS_GUIDE.pdf
